@@ -18,7 +18,7 @@
 
     <groupId>com.fri.series.stream</groupId>
     <artifactId>series-stream-catalog</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 	
 	<licenses>
         <license>
@@ -30,7 +30,7 @@
 
 
     <name>SeriesStream Catalog</name>
-    <description>SeriesStream catalog app</description>
+    <description>SeriesStream catalog app. This app contains series and episodes that are availible on our service.</description>
 
     <dependencyManagement>
         <dependencies>
